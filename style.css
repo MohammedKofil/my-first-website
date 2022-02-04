@@ -4,3 +4,7 @@ h1{
     padding: 10px 20px;
     text-align: center;
 }
+p{
+    text-align: justify;
+    background-color: gray;
+}
